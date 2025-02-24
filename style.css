@@ -1,0 +1,10 @@
+body{
+    /* background: rgb(131,96,195); */
+background: linear-gradient(90deg, rgba(131,96,195,1) 0%, rgba(46,191,145,1) 100%);
+font-family: "lato", serif;
+color: white;
+}
+
+#blacktxt {
+    color: black;
+}

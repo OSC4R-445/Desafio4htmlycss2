@@ -226,3 +226,24 @@ main{
         }
     }
 }
+
+#footer{
+    position: relative;
+    display: block;
+    text-align: center;
+    img{
+        width: 200px;
+    }
+    p{
+        font-size: large;
+        margin: 5%;
+        margin-top: 0%;
+    }
+    >:last-child{
+        left: 40%;
+        width: 20%;
+        position: absolute;
+        top: 180px; 
+        border-top: 2px solid white;
+    }
+}
